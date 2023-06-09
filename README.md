@@ -1,3 +1,4 @@
-# mern-basic
-Basic mern stack 
+
+ mern basic crud operation
+ 
 
